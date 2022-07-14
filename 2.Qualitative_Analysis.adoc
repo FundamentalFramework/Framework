@@ -52,7 +52,7 @@ First there are 6 factors that I am looking at when evaluating a project and the
 2.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#corporate-structure[Corporate structure^]
 3.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#whitepaper-and-documentation[Whitepaper and Documentation]
 4.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#tokenomics[Tokenomics^]
-5.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#roadmap[Road map^]
+5.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#roadmap[Roadmap^]
 6.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#community-involvement-and-ecosystem-development[Community involvement and ecosystem development^]
 7.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#conclusion[Conclusion^]
 
