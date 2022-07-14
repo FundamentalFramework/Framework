@@ -1,0 +1,402 @@
+Qualitative Analysis
+---------------------
+
+Today we will analyze the qualitative part that distinguishes a cryptocurrency project. Before starting, it is good to remember that the sector is still young and there are still no consolidated metrics in the evaluation of a project, therefore, we must adapt with the evolution of the ecosystem by reviewing and adjusting the parameters over time. So this is a Work in Progress construction process that will probably last several years before acquiring a solid and validated foundation over time.
+
+Fundamental analysis in financial markets had its foundation in the mainstream around 1934 when Benjamin Graham and David Dodd finished writing the https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539Security/[Analysis book^] that had begun 4 years earlier.
+
+The birth of Bitcoin was the genesis of a completely new asset class, this only 13 years ago, giving rise to a technological revolution from which various sectors were born. Ethereum was born 7 years ago giving life to the economy of smart contract platforms. The technologies that currently power Blockchain projects are still experimental, with a high risk of failure, therefore we must be wary of excessive optimistic assessments that are easy to come across in Cryptocurrency.
+
+Many of the high-potential projects of 2017 today are networks that are still active, producing blocks and transactions, but the native token has achieved negligible performance and in some cases today you would find yourself at a loss.
+Below you will find a list of the top 10 cryptocurrencies photographed by https://coinmarketcap.com/it/historical/20170711/[CMC on 11 July 2017^] (5 years ago at the time of writing these lines) compared to current prices.
+
+[options="header,footer"]
+|=======================
+|Rank '17 to '22|Crypto|Price 11 Jul ‘17|Price 11 Jul ‘22|Performance
+|1-1| Bitcoin| $2,305| $19,970.56|+766.38%
+|2-2| Ethereum| $197.40| $1,097.24|+455.85%
+|3-7| XRP| $0.185| $0.3143|+69.9%
+|4-20| Litecoin| $45.33| $48.77|+7,59%
+|5-29| Ethereum Classic| $14.72| $14.19|`-3,60%`
+|6-75| Dash| $165.73| $41.58|`-74.91%`
+|7-87| Nem| $0.1193| $0.03793|`-68.21%`
+|8-27| Monero| $37.14| $127.02|+242%
+|9-55| IOTA| $0.1876| $0.2659|+41.74%
+|10-0| BitConnect| $55.07| $0|`-100%`
+|-|Total Return 
+
+(Hypothetical investment, 
+$10k*coin)|Investment  start $100,000|Current balance $233,674|Average +133.67%
+|=======================
+
+The entry at the bottom of the table, Total Return, indicates a hypothetical buy and hold investment of $10,000 allocated to each coin, for a total of $100,000.
+Each crypto weighs 10% in the index.
+Today the portfolio would have earned an average return of 133.67% with a final balance of $233,674.
+BTC and ETH today would weigh 60.86% and XMR 14.63% for a total of 73.80%!
+Therefore 30% of the coins (from the initial investment) yielded ~75.5% of the entire portfolio.
+Everything else is questionable.
+
+*_Furthermore, the most observant will notice BitConnect a fraudulent ponzi scheme culminating in a colossal pump and dump here is the https://coinmarketcap.com/it/currencies/bitconnect/[graph^]._*
+
+This preamble serves as a general introduction before moving on to the various stages.
+Today there are only 2 quality coins and they are BTC and ETH. Stop.
+Over time, new unicorns will be born (someone in the magnifying glass is present), but they will have to pass the test of time, that is, overcome prolonged drawdowns knowing how to recover in a healthy way and, consolidating their positioning in the markets by creating real use cases with effects. network and increasing adoption rates.
+
+So it is always good to remember that the future is never linear and well defined, we must adapt to the markets as to life. By analogy, it would be like putting ourselves in the car at night, even if you already know the destination from point A to point B you need the headlights that illuminate the road, the headlights illuminate about 100 meters. 100 meters at a time you arrive at your destination. You could change the road due to work in progress and lengthen it by a few minutes, or run into thunderstorms that would slow down the journey but, the important thing is to do it one step at a time. 100 meters at a time. There are no loopholes, you have to get your hands dirty.
+
+Now let's dive in!
+
+First there are 6 factors that I am looking at when evaluating a project and they are the following:
+
+1.  The team
+2.  Corporate structure
+3.  Whitepaper and Documentation
+4.  Tokenomics
+5.  Road map
+6.  Community involvement and ecosystem development
+7.  Conclusion
+
+The Team
+-------
+
+Although past performance is no guarantee of future performance, a good team certainly has more resources than those without an important background, but remember that even the greatest can fail, for a variety of reasons. Having said that, here is a failure that if it had been in the crypto market would have created disbelief and disdain.
+
+https://www.cnbc.com/2020/10/21/quibi-to-shut-down-after-just-6-months.html/[Quibi^] was a video streaming service founded by https://en.wikipedia.org/wiki/Jeffrey_Katzenberg[Jeffrey Katzenberg^] (co-founder with Steven Spielberg and David Geffen of the production company DreamWorks SKG) and https://en.wikipedia.org/wiki/Meg_Whitman[Meg Whitman^] (US business executive, known for having been at the helm for two decades before eBay and then Hewlett Packard) in the role of CEO. The company raised $ 2 billion from Disney and other investors, but ultimately had to throw in the towel, give some of the money back to the investors and liquidate the company. If they had launched an IEO on Binance, the token was certainly the bet of the year, even housewives would have joined the game.
+
+So, since we cannot predict with certainty the success of others, we can however ask ourselves some legitimate questions, here are some of them:
+
+* Are they people with a track record of excellence in prestigious companies?
+
+* Have they created successful companies with multi-million dollar exits in the past?
+
+* Is the team anonymous?
+  - If so, why?
+
+* Is anyone on the team a suspect or have they had legal problems in the past relating to fraudulent actions, pyramid schemes or similar situations?
+
+* Is the team public but are they unknown to the public without a demonstrable track record?
+  - If so, are they incredibly talented and motivated? (example: Bill gates, Steve jobs, Larry Page - Sergey Brin or Vitalik Buterin were complete strangers at their debut without a track record of excellence, yet, they have changed and are changing the world).
+  
+These are some questions we can ask ourselves to understand who we are facing, the team must be healthy and free from all problems, fraud and dishonesty.
+Better to lose an opportunity than to lose money.
+
+Corporate structure
+------------------
+
+It is always useful to understand the legal entity behind a project, in Ethereum there is a foundation that sponsors and encourages the development and sustainability of the network in the long term through grants. One example is developer https://prysmaticlabs.com/[prysmaticlabs^], a team of software engineers that builds the technical infrastructure as well as the ongoing development of the Prysm consensus client. Furthermore, the Ethereum Foundation finances dozens of projects ranging from community development, education, promotes research and constantly invests in technological development: consensus layer, L2 scaling and user experience.
+
+Then we have Polygon technology, a technology and consulting company and therefore a for-profit company that funds and supports the Polygon network: https://www.forbes.com/sites/stevenehrlich/2022/04/22/polygon-pledges-100-million-to-bootstrap-growth-but-co-founder-also-expresses-caution-about-crypto-projects-having-too-much-money/?sh=5eed74e6fb88[a recent announcement explains plans to invest $100 million^] in order to increase growth.
+
+So, is it better to find ourselves in front of a foundation or a corporation?
+On a human level, a foundation is more geared towards the development of social utility and for the common good by preserving the organisation's treasure, considering that foundations are exempt from tax and accounting.
+Corporations are aimed at producing taxed income and are based on profit. Profit that can be distributed for the purpose of growing the business. it is a strategic and common sense choice on the part of the founding fathers, there is no winner.
+
+To lighten the research work on foundations or companies it is useful to use https://www.crunchbase.com/[CrunchBase^] so as to have a complete overview of the founders, the financial status and ask yourself some questions:
+
+* Has it received funding?
+
+* If so, by whom?
+
+* Are they recognized investors?
+
+* How long have they been in business?
+
+* Have there been any major investments or acquisitions to other companies?
+
+* How is it treated by the media?
+
+Whitepaper and Documentation
+---------------------------
+
+The Whitepaper is an information document where companies and organizations promote products or services used to entice or persuade potential consumers. Whitepapers can also be technical documents that elaborate a new technology proposing it to the general public: https://curve.fi/whitepaper[Curve^] uses three different types.
+
+There are 3 types of Papers each with a different purpose; White Paper, Yellow Paper and Beige Paper. 
+
+We will use Ethereum as a practical example:
+
+https://ethereum.org/en/whitepaper/[White Paper^]: information document where the organization outlines their business plan, the vision of the founder, the problem encountered, the solution, the token distribution plan etc… The Whitepaper is designed as a value proposition.
+
+https://ethereum.github.io/yellowpaper/paper.pdf[Yellow Paper^]: written by Gavin Wood it is a highly technical document, incomprehensible to the layman. If a software engineer wants to fully understand technology, the Yellow Paper is the document to rely on.
+
+
+https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf[Beige Paper^]: it is a rewrite of the Yellow Paper in a more discursive and less technical format, easier to understand for the layman.
+
+Therefore we have The White Paper which outlines the plan, the problem, the solution, etc. The Yellow Paper explains in a scientific and technical way how it does it and the Beige Paper which makes it accessible to a wider audience.
+This is theoretically the purpose of the three papers, this is not set in stone so we can find some technical documents in a White Paper, it depends from case to case, but large organizations are more scrupulous and careful to keep order.
+  
+The documentation gives us a specific granular detail for each component of the project. Such as tokenomics, the creation of a node, a validator, the governance structure and how developers should interface with the underlying technology. is a useful document to understand how to use the software as an end user, you can find guides on how to stack or request a ransom.
+
+Now we can ask ourselves some pertinent questions:
+
+* Is the WP easy to understand or is it overly complicated?
+
+* is a market problem identified?
+
+* Is the solution (i.e. the use case) clearly explained?
+
+* Are they overly optimistic? (not a good sign)
+
+* Do they claim their technology will change the world? (not a good sign)
+
+* How do you feel after initially browsing the content?
+
+* Do you feel comfortable or overwhelmed?
+
+Tokenomics
+---------
+
+Tokenomics is one of the most important aspects for the survival of the token, it must have a real function that is sustainable over time. There are tokens of important and leading projects in their sector such as aave or compound that are greatly affected by an overwhelming decline that lasted about a year, while the market performed a lot in the rest of the period. This, I assume, is derived from the fact that such tokens are distributed as interest to the lenders in the DeFi, the lenders, to collect the interest, sell part of the coins creating prolonged bearish pressures. So it is clear that, in the medium term, there could be a disconnect between the price of the token and the success of the project.
+
+Essentially there are 6 central points that make up a Crypto Economy, let's see them:
+
+1.  Limited vs unlimited supplies
+
+2.  Mining and staking
+
+3.  Passive Income
+
+4.  Token burns
+
+5.  Allocation, vesting and lockup periods
+
+6.  Utility
+
+Limited vs unlimited supplies
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+For simplicity we use bitcoin as an example. We all know that there will be only 21 million extractable units by 2140 after which the supply will reach its predetermined limit and no new coins will be minted. The concept of scarcity here is elegantly conceived from a mathematical function and not from the human madness of printing money or new gold deposits.
+At the time of writing we are https://www.worldometers.info/world-population/[approximately reaching 8 billion^] inhabitants, approximately 0.002625 BTC per person. Those who hold even a single bitcoin could consider themselves a privileged one.
+
+Bitcoin, being the first accepted p2p network, started the biggest cryptocurrency rush that man has ever experienced since the Gold rush in 1948.
+Many cryptocurrencies such as Litecoin or Bitcoin Cash have a limited supply but the concept of scarcity is not popular in the latter, the narrative and the value proposition play an important role in all of this. Furthermore, it is the market that over time finds a more accurate and interpretative definition of the asset.
+
+Ethereum has an unlimited supply and currently the circulating mass is 121,253,920 ETH.
+So how is it possible that a currency like Ethereum with an unlimited supply and a circulation greater than 71% of Litecoin and 534% of Bitcoin Cash has a price that on average, between the two counterparties, is about 1278% higher? Network effects.
+
+If there is a network effect and the tokenomics is well designed, the price of the token will be more likely to be sustainable over time, that is, a total recovery of prices with higher highs after heavy and prolonged drawdowns.
+
+Therefore it is good to pay attention to the supply by contextualizing the general framework that surrounds the project. For example, Dogecoin has an unlimited supply and has 132,670,764,299 units in circulation, in effect an inflationary currency. Dogecoin's tokenonomics can make it a usable coin as it has a huge community, supported by high profile people and therefore accepted as a bargaining chip rather than a store of value in the case of Bitcoin or gas for Ethereum.
+
+Mining and Staking
+^^^^^^^^^^^^^^^^^
+
+For Level 1 Blockchains that use the PoW consensus mechanism, such as Bitcoin, mining is the system for which network security is decentralized.
+The incentive or subsidy miners receive to keep the network safe is paid in bitcoin. This process leads to the creation of new coins that are distributed to the miner who first solves the cryptographic puzzle, moreover, the miner will receive the fees of all the transactions paid by the users incorporated in the block. Therefore, the miner, for each block found, receives the subsidy of newly minted bitcoins (6.25 BTC) + fees.
+
+Blockchains with PoS consensus mechanism reward those who bet coins to a validator which, similarly to PoW consensus, has the function of the miner, that is, receives a subsidy for each validated block plus the fees paid by users. The difference is that anyone can generate income by receiving part of the subsidy + fee, simply by locking their tokens on smart contracts rather than buying expensive mining devices that plague PoW networks.
+On the other hand, a heated discussion is underway regarding security in PoS networks when compared to the security of the Bitcoin network, which has been tested and well-tested for many years.
+
+Passive Income
+^^^^^^^^^^^^^
+
+Until a few years ago it was not possible to earn returns on most cryptocurrencies, except for the first PoS experiments.
+Currently it is also possible to receive staking returns from ERC-20 tokens such as DYDX (DYDX) (Perpetual Futures DEX). Every potential gain derived from returns has the Smart Contract risk as its Achilles heel, that is, the possibility that the contract will be violated or deceived with consequent forced withdrawal of funds. For DYDX the risk is twofold; in addition to being present a Smart Contract risk (risk omnipresent in every protocol), users are additionally exposed to the risk of “shortage event” which can result in the cutting of DYDX funds in staking at the discretion of DYDX governance. The event of shortage may include; creditworthiness of the stock exchange which defaults due to forced liquidations or other black swan events that the DYDX government believes have resulted in a budget deficit.
+Therefore receiving a passive income is a great way to make your cryptocurrency profit and thus receive a constant cash flow, but beware! Whenever you interact with DeFi or CeFi you are raising the risk curve so have good risk management and feel comfortable in case black swan events could occur in your portfolio.
+
+Token Burns
+^^^^^^^^^^
+
+On August 5, 2021, https://ethereum.org/en/history/#london[Hard Fork London introduces EIP-1159^] on Ethereum, definitively burning part of the commissions generated with each transaction. Prior to the introduction of IEP-1159, a first-price auction model was used to determine the price of gas, designed to prioritize use cases of higher value by ensuring that blocks are not filled with low-value use cases. value. This created a problem as there was no way to calculate an optimal price for a single transaction.
+
+Let's think of a period of high intensity where transactions are anything but economic. If a user includes a $30 commission based on the previous transaction having included a $28 transaction, but, if all users are including a $20 commission, it would have been better to include a $21 commission, saving $9!
+Ethereum wallets at the time could not accurately estimate gas spending, therefore, people tended to overspend.
+
+This problem was solved with the https://eips.ethereum.org/EIPS/eip-1559[introduction of the EIP-1159^].
+The transaction determination mechanism is now based on a fixed fee per block that any transaction must include. While there is a base rate, users can choose to “tip” miners with a priority rate. This will give them a higher priority in including the transaction upon completion of the next block.
+
+The annual inflation rate is currently https://messari.io/asset/ethereum/chart/iss-rate[4.10%^], https://watchtheburn.com/insights[Watchtheburn^] shows that, at the time of writing, since the first day of the EIP-1159 launch, out of 4,341,358 ETH minted the burn has helped eliminate 2,490,214 ETH from circulation with a net reduction on the issue of 57.36%! Sounds good!
+
+The goal of token burning is to remove a certain amount of tokens from the circulating supply. it is an innovative system of the traditional share buy-back as listed companies buy back their shares to reduce the current supply, but it is not certain that these shares will sooner or later return to the market. However, the token burn is an efficient system that guarantees investors that the burned token can no longer re-enter the system.
+
+As we can see from the recent market contractions, the token burn does not eliminate strong drawdowns, combustion is an excellent system for draining circulating circulation by reducing supply in the long term, but in the short term a disconnect occurs in the markets between the economic activity dictated by the fundamentals and price action.
+
+As the good Benjamin Graham said: https://www.cnbc.com/2019/10/25/why-jeff-bezos-never-doubted-amazons-potential.html[“in the short run the stock market is a voting machine, in the long run it is a balance. So don't think about the daily price of the shares”^].
+
+If you hold quality assets in the long run you will win, don't rush if you don't see results in the immediate future. Nature gives us a great teaching, you cannot pick a fruit if it is not yet ripe, have patience in picking it when it is ripe.
+
+Allocation, vesting and lockup periods
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Premise: the distribution of the token is an important aspect for understanding the economy of a token. We assume that, currently, in this historical context (July 2022), any allocation or vesting and lockup period receives minimal (upward) price impact. Going against the grain of what many people think or say, the real impact on price, in the long run, is if the founders, the team and the whole community believe in the vision of the project and in the contribution they can make by solving a problem for them. identified. Regarding the allocation, yes, it can certainly affect the price action but, only if the market is in a non-bearish phase or, more commonly, depressed. In this case, Allocations, burns, high-level partnerships and a whole series of initiatives bring a real benefit at almost zero price.
+The real benefit will only come in the long run if the team has worked well and the token economy is sustainable. Hence, allocation, vesting period and lockup are very important during a fundamental analysis but, remember the above: markets can lose -90% even if the token economy is well designed and the founders and development teams are in between. the best around. I repeat: in the long run the markets align with the fundamentals, therefore, there is a high probability that actions taken today are the reason for great results in the future.
+
+Here we analyze 3 aspects:
+
+1. Allocation
+Distribution of the token reserved for team members, investors, marketers, consultants, organizations or related entities.
+In the early design stages, the executive team decides the quantity expressed as a percentage to be dedicated to activities such as: marketing, development, operating costs, treasury etc.
+
+2. Vesting period
+Vesting period means that a certain amount of token is blocked for a certain period of time and released in several phases, an example: 15% of the supply is allocated to the team which does not immediately receive 15% but, the distribution takes place spread over 12 months, for example: 3.75% is paid to the team each quarter. Vesting is a practice that, among other things, is used to show that the team is interested in the project and will continue to pursue its goals.
+
+3. Lockup
+Similar to the vesting period but in a single solution. As in the example above, after 1 year of waiting, the team will receive 15% of the supply, all in a single solution and immediately usable on the market. Incorrect players could flood the market with newly entered tokens causing bearish pressure on prices.
+
+Now we can ask ourselves a few questions:
+
+* Is the allocation clear and complete?
+
+* Are misleading or unclear terms used?
+
+* Is there an imbalance related to the allocation held by the team? (a healthy allocation is estimated at 15-20%)
+
+* Are there vesting or lockup periods?
+  - If not, why?
+
+* Are there coincidences of breakouts and price dumps? (if yes, check the beneficiary of the release)
+
+
+* Does the team share have vesting periods longer than 2 years? (if yes, indicates a healthy commitment to pursuing long-term goals. (Do not use as an absolute indicator))
+
+Utility
+^^^^^^
+
+A cryptocurrency must have a utility that is a governance token like $COMP, a utility token like $BAT or a commodity like $ETH, the importance of utility is synonymous with sustainability and creativity to set in motion a token-based economy .
+
+We will focus on $ETH for simplicity as we all use the Ethereum network to make exchanges or transfers. Therefore it is a subject within everyone's reach and easy to understand.
+
+Ethereum being a Smart Contract platform, labeled as "the computer of the world", it is able to run programs and apps by exploiting the computation of thousands of computers located all over the world.
+ 
+Ether is the native asset of the Ethereum platform, and for this reason it plays a crucial role in the vast Ethereum ecosystem. Ether is used by users as a “gas” to power decentralized applications (dApps), this gas is sent to illuminators (soon to validators) as an aid for solving a computational problem.
+
+If user A sends Ether to user B the transaction is relatively simple, requiring a small amount of “gas”. A complex trade on Uniswap can take up to 5 times the price of "gas".
+
+Example (transactions taken from the same block):
+
+1.  https://etherscan.io/tx/0x6d36c2819e28358bdd8f0c4e3c94bbcbf22b6c95a5ae6401de4e162bb90ada0d[Ether transaction between two addresses^]
+
+2.  https://etherscan.io/tx/0x143d2201a94cc9f5f10d63dfa70fba6232af5746ce756e52720b16000e4c87d7[Trade on Uniswap^]
+
+In the first case, a quantity of gas equal to 21,000 units was spent. For an exchange on Uniswap a greater amount equal to 117,595 units was spent! An increase of ~560%!
+
+Since ether is used to move value between accounts, mint NFTs, interact with complex contracts in DeFi, therefore, used as a gas to power an economy, it inherently has greater utility than token governance or utility tokens or, a reserve currency such as bitcoin.
+(We are talking about the pure utility of the token within an ecosystem).
+
+Ether has another utility but this time "extrinsic", that is, that it was not designed but, purely a consequence fed and decided by the market. Ether has a significant weight in DeFi economies, it is one of the major tokens used as collateral in dApps such as Maker, for example you can collateralize Ether by borrowing the Dai stablecoin from the protocol, or, it is possible to collateralize Ether in loan protocols such as Aave or Compound to take out loans or to earn returns.
+
+Therefore, when we are faced with a Smart Contract platform whose token is at the service of the ecosystem, it is good to pay close attention because they can offer the greatest returns in the long term.
+Ethereum, Solana or Avalanche are some examples of Smart Contract platforms whose purpose of the token is to fuel an economy that, in decades, could be immense.
+
+Therefore, think of it this way: Oil, among many things, is used to move cars, trucks or any other road vehicle. Ether is simply the "oil" that is used to move the "means" of its ecosystem.
+
+Roadmap
+------
+
+A Roadmap is a strategic plan whose objectives define a desired result including milestones to achieve it.
+
+For unanimous knowledge we will focus on the https://ethereum.org/en/upgrades/[Ethereum Roadmap^] divided into 3 phases:
+
+https://ethereum.org/en/upgrades/beacon-chain/[The Beacon Chain^]
+The update took place on December 1, 2020, this update did not change anything in the Ethereum network we use today, but introduced PoS consensus in the Ethereum ecosystem, paving the way for future updates.
+
+
+https://ethereum.org/en/upgrades/merge/[The Merge^]
+It should take place by ~Q3/Q4 2022. It consists of merging the current network with the Beacon Chain, defining the transition to the Proof-of-Stake network completed.
+
+
+https://ethereum.org/en/upgrades/sharding/[The Shard Chain^]
+Once the network is merged, by ~2023, the Sharding Chains will be updated by increasing the scalability and storage capacity of the Ethereum network.
+
+Therefore, once you have verified the objectives, it is a good idea to ask yourself some pertinent questions. The primary recommendation is: **keep an open mind**.
+
+* Is the roadmap too long?
+  - If so, do you feel at ease or do you think it is a way to instill certainty and spectacularity in the product?
+
+* With respect to the capacity of the development team, their influence and financial depth, are the goals realistic? (If not, identify the origins)
+
+* Have the roadmap goals changed dramatically in 1-2 years?
+  - If so, are they following the trend of the moment? (Whether it's positive or negative, dig deep and find as much information as possible, evaluate the feasibility and make sure the previous goals are completed)
+
+* Are the details of the updates well documented?
+
+* Is there an expectation between the community and the newspapers talking about it? (make sure they are not paid press releases)
+
+* Does the team have a habit of postponing updates? (evaluate the complexity of the work, Ethereum and Cardano gave us an example of the delays that plague complex and important updates)
+
+Final thoughts: If you are a critic, evaluate the skills of the development team against the objectives set. If you feel a feeling of divination for a project try not to drool too much, try to remain critical as much as possible.
+Ultimately, it is better to be critical than too enthusiastic.
+Critical means keeping a certain distance even if we are talking about your favorite project, whether it is Bitcoin or Ethereum.
+If you stay critical you stay alert, if you stay alert you can save your assets.
+If you are in love you become numb, this can create inability to react, if you are unable to react you will be the main architect of the destruction of your assets.
+Just be in love with your family, your children or your wife.
+
+Community involvement and ecosystem development
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Never before have companies felt the need to involve the community in order to expand new features, create original products, real use cases and make them participate in the development of the ecosystem.
+Community management in the Cryptocurrency market has evolved as a popular Marketing trend where each project works actively on building their community. Increasing engagement and the number of users has become a Marketing goal. Not to be confused with fraudulent marketing that covers a good portion of low-level cryptocurrencies and legacy companies that sell shoddy products that are only bad for health and not bringing any benefit to the consumer.
+
+It has now been established that one of the most successful vehicles of a cryptographic project is the token. The excellent performance that a token can generate has attracted users and speculators both in the past and today. What is certain is that performance alone is not enough, to be sustainable over time, the project must create real use cases by attracting the best minds, and involving the public by making them feel part of the process.
+
+The Ethereum community center is huge and covers a vast assortment of skills ranging from software development to engaging Accounting and Financial Professionals or Researchers and Academics, Product Managers, Marketing and Communications and empowering non-technical people to organize events in the city, provide translations into your own language and even take notes during community meetings. Ethereum embraces every single detail, it is very inclusive in this regard, it enters the homes of the most experienced programmers, reaching the common person without technical skills. This is objectively an effective way to engage the community and develop a strong, globally distributed ecosystem.
+
+Here are the distinctive features of a project that aims to strongly involve and develop the ecosystem:
+
+They create events
+^^^^^^^^^^^^^^^^^
+Whether live or remotely, events are the engine of engagement by strengthening the existing community by expanding it to new levels. Events such as Blockchain Week, Hackathon, Summit and Meetups, have given rise to large communities of talented developers and enthusiasts who contribute immeasurably to the development of the ecosystem. https://solana.com/events[Solana^] is very active in this regard, since the beginning of the year it has 21 events, an average of about 3 events per month. https://ethereum.org/it/community/events/[Ethereum^] has around 27 events scheduled covering up to December 2022, around 5 events per month. These are large numbers that certainly do not leave indifferent when evaluating an investment, as an important signal of a serious intention in bringing their technology to an international audience.
+
+Grants
+^^^^^
+
+Grants are intended to fund big ideas that bring innovations and improvements in order to fuel growth and accelerate adoption. The major players in the crypto space have deep pockets by placing hundreds of millions of dollars of grants in specific programs, let's see some of them:
+
+* https://www.bnbchain.org/en/blog/binance-launches-one-billion-binance-smart-chain-fund-to-reach-one-billion-crypto-users/[Binance Smart Chain allocates $1billion] for ecosystem growth
+
+* https://near.org/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/[Near launches a $800 million^] fund to support ecosystem growth
+
+* https://medium.com/avalancheavax/avalanche-foundation-announces-180m-defi-incentive-program-d320fdfafff7[Avalanche allocates $180 million^] to the Avalanche Rush program with the aim of bringing blue-chip dapps into its ecosystem
+
+* https://solana.com/it/news/solana-ventures-and-solana-foundation-establish-100-million-investment-and-grant-fund-for-korea-web3-startups[Solana launches $100 million] fund targeting South Korean web3 startups
+
+These four entities alone are subsidizing just over $2 billion for the growth and development of their ecosystem - large numbers that would dwarf large legacy companies. Venture capital is part of the expansion strategy of any well-intentioned project, it is a great way to hire human capital and select the brightest minds that can make the ecosystem more feature-rich, useful and user-friendly.
+
+Ambassador Program
+^^^^^^^^^^^^^^^^^
+
+Binance calls them "Angels", they are passionate who help promote community awareness and education. The roles of ambassadors can be of the most varied, here are some of them:
+
+* Social channel and forum moderator
+
+* They post announcements, share updates, and answer questions
+
+* They provide technical support to the community
+
+* They produce translations on native language forums, documentation or social media
+
+* They create content: Podcasts, Tutorials or Videos
+
+* They organize Meetings, speak at events, participate in Hackathons
+
+Conclusion
+---------
+
+In the tech era in which we find ourselves, sharing and open source are the fundamental components and foundations of this new disruptive economy. Building the community, involving it and maintaining interest in the long term is essential. This is a sticking point that every project must pay attention to if it is to survive.
+
+The market moves fast, if you are not fast enough, innovative enough, you do not have human and financial capital, people move. The token loses interest, it ends up in oblivion and at each cycle the rank will be lower and lower until the project is abandoned or they will continue to build but without a substantial contribution to the token.
+
+Several tokens in 2017 came to this ugly end, with all good intentions, the project failed to gain traction. An investor in cryptocurrency is interested in that the network and the ecosystem grow together with the price of the token and that the growth is sustainable in the long term.
+There are occasions when the token gasps death but companies are alive, they create content and products and in the real world they can contribute. For this reason, I believe that tokenomics is one of the most critical points when building an ecosystem. A disconnect can occur between the price of the token and the success of the company.
+
+Everything is useful, no one is indispensable. This maxim also holds true in the crypto economy. All the sections listed in the paper are useful but none are essential to the success of a project if taken individually. It is a team game, a cocktail that if well mixed can produce excellent results.
+
+
+Do your research, be extremely selective, don't run into Confirmation Bias, don't fall in love. Respect your money.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
