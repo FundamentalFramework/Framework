@@ -1,7 +1,7 @@
 Qualitative Analysis
 ---------------------
 
-Today ko we will analyze the qualitative part that distinguishes a cryptocurrency project. Before starting, it is good to remember that the sector is still young and there are still no consolidated metrics in the evaluation of a project, therefore, we must adapt with the evolution of the ecosystem by reviewing and adjusting the parameters over time. So this is a Work in Progress construction process that will probably last several years before acquiring a solid and validated foundation over time.
+Today we will analyze the qualitative part that distinguishes a cryptocurrency project. Before starting, it is good to remember that the sector is still young and there are still no consolidated metrics in the evaluation of a project, therefore, we must adapt with the evolution of the ecosystem by reviewing and adjusting the parameters over time. So this is a Work in Progress construction process that will probably last several years before acquiring a solid and validated foundation over time.
 
 Fundamental analysis in financial markets had its foundation in the mainstream around 1934 when Benjamin Graham and David Dodd finished writing the https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions-ebook/dp/B0037JO5J8[Analysis book^] that had begun 4 years earlier.
 
