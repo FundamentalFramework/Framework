@@ -155,7 +155,7 @@ Essentially there are 6 central points that make up a Crypto Economy, let's see 
 
 3.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#passive-income[Passive Income^]
 
-4.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#token-burns[Token burns^]
+4.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#token-burns[Token Burns^]
 
 5.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#allocation-vesting-and-lockup-periods[Allocation, vesting and lockup periods^]
 
