@@ -1,9 +1,9 @@
 Qualitative Analysis
 ---------------------
 
-Today we will analyze the qualitative part that distinguishes a cryptocurrency project. Before starting, it is good to remember that the sector is still young and there are still no consolidated metrics in the evaluation of a project, therefore, we must adapt with the evolution of the ecosystem by reviewing and adjusting the parameters over time. So this is a Work in Progress construction process that will probably last several years before acquiring a solid and validated foundation over time.
+Today ko we will analyze the qualitative part that distinguishes a cryptocurrency project. Before starting, it is good to remember that the sector is still young and there are still no consolidated metrics in the evaluation of a project, therefore, we must adapt with the evolution of the ecosystem by reviewing and adjusting the parameters over time. So this is a Work in Progress construction process that will probably last several years before acquiring a solid and validated foundation over time.
 
-Fundamental analysis in financial markets had its foundation in the mainstream around 1934 when Benjamin Graham and David Dodd finished writing the https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539Security/[Analysis book^] that had begun 4 years earlier.
+Fundamental analysis in financial markets had its foundation in the mainstream around 1934 when Benjamin Graham and David Dodd finished writing the https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions-ebook/dp/B0037JO5J8[Analysis book^] that had begun 4 years earlier.
 
 The birth of Bitcoin was the genesis of a completely new asset class, this only 13 years ago, giving rise to a technological revolution from which various sectors were born. Ethereum was born 7 years ago giving life to the economy of smart contract platforms. The technologies that currently power Blockchain projects are still experimental, with a high risk of failure, therefore we must be wary of excessive optimistic assessments that are easy to come across in Cryptocurrency.
 
@@ -42,7 +42,7 @@ This preamble serves as a general introduction before moving on to the various s
 Today there are only 2 quality coins and they are BTC and ETH. Stop.
 Over time, new unicorns will be born (someone in the magnifying glass is present), but they will have to pass the test of time, that is, overcome prolonged drawdowns knowing how to recover in a healthy way and, consolidating their positioning in the markets by creating real use cases with effects. network and increasing adoption rates.
 
-So it is always good to remember that the future is never linear and well defined, we must adapt to the markets as to life. By analogy, it would be like putting ourselves in the car at night, even if you already know the destination from point A to point B you need the headlights that illuminate the road, the headlights illuminate about 100 meters. 100 meters at a time you arrive at your destination. You could change the road due to work in progress and lengthen it by a few minutes, or run into thunderstorms that would slow down the journey but, the important thing is to do it one step at a time. 100 meters at a time. There are no loopholes, you have to get your hands dirty.
+So it is always good to remember that the future is never linear and well defined, we must adapt to the markets as to life. By analogy, it would be like putting ourselves in the car at night, even if you already know the destination from point A to point B you need the headlights that illuminate the road, the headlights illuminate about 100 meters. 100 meters at a time you arrive at your destination. You could change the road due to work in progress and lengthen it by a few minutes, or run into thunderstorms that would slow down the journey but, the important thing is to do it one step at a time. 100 meters at a time. There are no loopholes, you have to get your hands dirty. 
 
 Now let's dive in!
 
@@ -196,7 +196,7 @@ Therefore receiving a passive income is a great way to make your cryptocurrency 
 Token Burns
 ^^^^^^^^^^
 
-On August 5, 2021, https://ethereum.org/en/history/#london[Hard Fork London introduces EIP-1159^] on Ethereum, definitively burning part of the commissions generated with each transaction. Prior to the introduction of IEP-1159, a first-price auction model was used to determine the price of gas, designed to prioritize use cases of higher value by ensuring that blocks are not filled with low-value use cases. value. This created a problem as there was no way to calculate an optimal price for a single transaction.
+On August 5, 2021, https://ethereum.org/en/history/#london[Hard Fork London introduces EIP-1159^] on Ethereum, definitively burning part of the commissions generated with each transaction. Prior to the introduction of IEP-1159, a first-price auction model was used to determine the price of gas, designed to prioritize use cases of higher value by ensuring that blocks are not filled with low-value use cases. This created a problem as there was no way to calculate an optimal price for a single transaction.
 
 Let's think of a period of high intensity where transactions are anything but economic. If a user includes a $30 commission based on the previous transaction having included a $28 transaction, but, if all users are including a $20 commission, it would have been better to include a $21 commission, saving $9!
 Ethereum wallets at the time could not accurately estimate gas spending, therefore, people tended to overspend.
@@ -217,19 +217,22 @@ If you hold quality assets in the long run you will win, don't rush if you don't
 Allocation, vesting and lockup periods
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Premise: the distribution of the token is an important aspect for understanding the economy of a token. We assume that, currently, in this historical context (July 2022), any allocation or vesting and lockup period receives minimal (upward) price impact. Going against the grain of what many people think or say, the real impact on price, in the long run, is if the founders, the team and the whole community believe in the vision of the project and in the contribution they can make by solving a problem for them. identified. Regarding the allocation, yes, it can certainly affect the price action but, only if the market is in a non-bearish phase or, more commonly, depressed. In this case, Allocations, burns, high-level partnerships and a whole series of initiatives bring a real benefit at almost zero price.
-The real benefit will only come in the long run if the team has worked well and the token economy is sustainable. Hence, allocation, vesting period and lockup are very important during a fundamental analysis but, remember the above: markets can lose -90% even if the token economy is well designed and the founders and development teams are in between. the best around. I repeat: in the long run the markets align with the fundamentals, therefore, there is a high probability that actions taken today are the reason for great results in the future.
+Premise: the distribution of the token is an important aspect for understanding the economy of a token. We assume that, currently, in this historical context (July 2022), any allocation or vesting and lockup period receives minimal (upward) price impact. Going against the grain of what many people think or say, the real impact on price, in the long run, is if the founders, the team and the whole community believe in the vision of the project and in the contribution they can make by solving a problem for them identified. Regarding the allocation, yes, it can certainly affect the price action but, only if the market is in a non-bearish phase or, more commonly, depressed. In this case, Allocations, burns, high-level partnerships and a whole series of initiatives bring a real benefit at almost zero price.
+The real benefit will only come in the long run if the team has worked well and the token economy is sustainable. Hence, allocation, vesting period and lockup are very important during a fundamental analysis but, remember the above: markets can lose -90% even if the token economy is well designed and the founders and development teams are in between the best around. I repeat: in the long run the markets align with the fundamentals, therefore, there is a high probability that actions taken today are the reason for great results in the future.
 
 Here we analyze 3 aspects:
 
 1. Allocation
+^^^^^^^^^^^^^
 Distribution of the token reserved for team members, investors, marketers, consultants, organizations or related entities.
 In the early design stages, the executive team decides the quantity expressed as a percentage to be dedicated to activities such as: marketing, development, operating costs, treasury etc.
 
 2. Vesting period
+^^^^^^^^^^^^^^^^
 Vesting period means that a certain amount of token is blocked for a certain period of time and released in several phases, an example: 15% of the supply is allocated to the team which does not immediately receive 15% but, the distribution takes place spread over 12 months, for example: 3.75% is paid to the team each quarter. Vesting is a practice that, among other things, is used to show that the team is interested in the project and will continue to pursue its goals.
 
 3. Lockup
+^^^^^^^^
 Similar to the vesting period but in a single solution. As in the example above, after 1 year of waiting, the team will receive 15% of the supply, all in a single solution and immediately usable on the market. Incorrect players could flood the market with newly entered tokens causing bearish pressure on prices.
 
 Now we can ask ourselves a few questions:
@@ -257,7 +260,7 @@ We will focus on $ETH for simplicity as we all use the Ethereum network to make 
 
 Ethereum being a Smart Contract platform, labeled as "the computer of the world", it is able to run programs and apps by exploiting the computation of thousands of computers located all over the world.
  
-Ether is the native asset of the Ethereum platform, and for this reason it plays a crucial role in the vast Ethereum ecosystem. Ether is used by users as a “gas” to power decentralized applications (dApps), this gas is sent to illuminators (soon to validators) as an aid for solving a computational problem.
+Ether is the native asset of the Ethereum platform, and for this reason it plays a crucial role in the vast Ethereum ecosystem. Ether is used by users as a “gas” to power decentralized applications (dApps), this gas is sent to Miner's (soon to validators) as an aid for solving a computational problem.
 
 If user A sends Ether to user B the transaction is relatively simple, requiring a small amount of “gas”. A complex trade on Uniswap can take up to 5 times the price of "gas".
 
@@ -382,21 +385,3 @@ Everything is useful, no one is indispensable. This maxim also holds true in the
 
 
 Do your research, be extremely selective, don't run into Confirmation Bias, don't fall in love. Respect your money.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
