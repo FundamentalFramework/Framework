@@ -48,13 +48,13 @@ Now let's dive in!
 
 First there are 6 factors that I am looking at when evaluating a project and they are the following:
 
-1.  The team
-2.  Corporate structure
-3.  Whitepaper and Documentation
-4.  Tokenomics
-5.  Road map
-6.  Community involvement and ecosystem development
-7.  Conclusion
+1.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#the-team[The team^]
+2.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#corporate-structure[Corporate structure^]
+3.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#whitepaper-and-documentation[Whitepaper and Documentation]
+4.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#tokenomics[Tokenomics^]
+5.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#roadmap[Road map^]
+6.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#community-involvement-and-ecosystem-development[Community involvement and ecosystem development^]
+7.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#conclusion[Conclusion^]
 
 The Team
 -------
@@ -149,17 +149,17 @@ Tokenomics is one of the most important aspects for the survival of the token, i
 
 Essentially there are 6 central points that make up a Crypto Economy, let's see them:
 
-1.  Limited vs unlimited supplies
+1.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#limited-vs-unlimited-supplies[Limited vs unlimited supplies^]
 
-2.  Mining and staking
+2.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#mining-and-staking[Mining and Staking^]
 
-3.  Passive Income
+3.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#passive-income[Passive Income^]
 
-4.  Token burns
+4.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#token-burns[Token burns^]
 
-5.  Allocation, vesting and lockup periods
+5.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#allocation-vesting-and-lockup-periods[Allocation, vesting and lockup periods^]
 
-6.  Utility
+6.  https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc#allocation-vesting-and-lockup-periods[Utility^]
 
 Limited vs unlimited supplies
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -324,7 +324,7 @@ If you are in love you become numb, this can create inability to react, if you a
 Just be in love with your family, your children or your wife.
 
 Community involvement and ecosystem development
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------
 
 Never before have companies felt the need to involve the community in order to expand new features, create original products, real use cases and make them participate in the development of the ecosystem.
 Community management in the Cryptocurrency market has evolved as a popular Marketing trend where each project works actively on building their community. Increasing engagement and the number of users has become a Marketing goal. Not to be confused with fraudulent marketing that covers a good portion of low-level cryptocurrencies and legacy companies that sell shoddy products that are only bad for health and not bringing any benefit to the consumer.
