@@ -1,7 +1,7 @@
 Selection and high-level pruning
 --------------------------------
 The first phase concerns only the projects unknown to you and little talked about.
-There is no need to go through the first stage for legitimate projects such as Solana, Uniswap or Filecoin. Therefore, we will proceed directly to Phase 2.
+There is no need to go through the first stage for legitimate projects such as Solana, Uniswap or Filecoin. Therefore, we will proceed directly to https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc[Phase 2^].
 
 An example of projects to put under the lens of the first phase could be https://www.coingecko.com/en/coins/bitkub-coin/[Bitkub Coin (KUB)^], https://www.coingecko.com/en/coins/radio-caca/[Radio Caca (RACA)^] or https://www.coingecko.com/it/monete/xido-finance/[Xido Finance (XIDO)^]
 
@@ -19,7 +19,7 @@ Taking https://www.coingecko.com/it/monete/xido-finance/[Xido Finance (XIDO)^] a
 
 * 3. *Social-Twitter:* Twitter is the dominant social network in the Crypto sphere, there are other social networks that are strong such as Discord, Reddit or Telegram Groups, but let's focus only on Twitter as it is used as the main channel for official communications by all the major players in the market. We can see how much a profile is followed, what is the level of interaction and involvement with the community. What people think in replies to tweets is also important. Apps like https://santiment.net/[Santiment^] can give you great support thanks to their social metrics and keywords. Twitter is infested with bots and rogue players could alter metrics like Likes, Retweets, comments and followers. There are software that can help you in this, but a careful analysis of the profile is enough to decide a reasonable opinion. Furthermore, verified profiles are certainly more trusted and deemed by Twitter to be authentic, known and active.
 
-* 4. *Official site:* Let's take a look at the official site to understand who they are, what they do, whether a foundation or for-profit company has been established (in Step 2. a useful tool will be recommended for an in-depth evaluation of this 'last).
+* 4. *Official site:* Let's take a look at the official site to understand who they are, what they do, whether a foundation or for-profit company has been established (the https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc[Phase 2.^] a useful tool will be recommended for an in-depth evaluation of this 'last).
 There must be links to social networks, githubs and links to documentation. It happens that in some cases the team is not present on the site, it is therefore advisable to check the Whitepaper. If the objective of the project or the technology used is not clear, a high-level reading of the documentation is appropriate.
 
 * 5. *Block Explorer:* Here we analyze the number of transactions and the total addresses. A first approach to understand how many transactions are taking place on that network and to identify if the number of addresses is growing over time. If a token has been in the market for a year with only 3k Holders and just over 1k-2k transactions, raise the red flag.
