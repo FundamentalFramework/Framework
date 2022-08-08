@@ -88,14 +88,13 @@ It is always useful to understand the legal entity behind a project, in Ethereum
 Then we have Polygon technology, a technology and consulting company and therefore a for-profit company that funds and supports the Polygon network: https://www.forbes.com/sites/stevenehrlich/2022/04/22/polygon-pledges-100-million-to-bootstrap-growth-but-co-founder-also-expresses-caution-about-crypto-projects-having-too-much-money/?sh=5eed74e6fb88[a recent announcement explains plans to invest $100 million^] in order to increase growth.
 
 So, is it better to find ourselves in front of a foundation or a corporation?
-On a human level, a foundation is more geared towards the development of social utility and for the common good by preserving the organisation's treasure, considering that foundations are exempt from tax and accounting.
+On a human level, a foundation is more geared towards the development of social utility and for the common good by preserving the organisation's treasure.
 Corporations are aimed at producing taxed income and are based on profit. Profit that can be distributed for the purpose of growing the business. it is a strategic and common sense choice on the part of the founding fathers, there is no winner.
 
 To lighten the research work on foundations or companies it is useful to use https://www.crunchbase.com/[CrunchBase^] so as to have a complete overview of the founders, the financial status and ask yourself some questions:
 
 * Has it received funding?
-
-* If so, by whom?
+  - If so, by whom?
 
 * Are they recognized investors?
 
@@ -217,8 +216,8 @@ If you hold quality assets in the long run you will win, don't rush if you don't
 Allocation, vesting and lockup periods
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Premise: the distribution of the token is an important aspect for understanding the economy of a token. We assume that, currently, in this historical context (July 2022), any allocation or vesting and lockup period receives minimal (upward) price impact. Going against the grain of what many people think or say, the real impact on price, in the long run, is if the founders, the team and the whole community believe in the vision of the project and in the contribution they can make by solving a problem for them identified. Regarding the allocation, yes, it can certainly affect the price action but, only if the market is in a non-bearish phase or, more commonly, depressed. In this case, Allocations, burns, high-level partnerships and a whole series of initiatives bring a real benefit at almost zero price.
-The real benefit will only come in the long run if the team has worked well and the token economy is sustainable. Hence, allocation, vesting period and lockup are very important during a fundamental analysis but, remember the above: markets can lose -90% even if the token economy is well designed and the founders and development teams are in between the best around. I repeat: in the long run the markets align with the fundamentals, therefore, there is a high probability that actions taken today are the reason for great results in the future.
+Premise: There are time windows where allocations, burns, high-level partnerships and a whole series of initiatives do not bring a real benefit to the price in the short term, apart from momentary bullish bursts that could be eaten within a few days / week.
+The real benefit will only come in the long run if the team has worked well and the token economy is sustainable. Hence, allocation, vesting period and lockup are very important during a fundamental analysis but remember: markets can lose -90% even if the token economy is well designed and the founders and development teams are some of the best around. . Remember: in the long run, markets align with fundamentals, therefore, there is a high probability that actions taken today will be the reason for great results in the future.
 
 Here we analyze 3 aspects:
 
@@ -235,22 +234,6 @@ Vesting period means that a certain amount of token is blocked for a certain per
 ^^^^^^^^
 Similar to the vesting period but in a single solution. As in the example above, after 1 year of waiting, the team will receive 15% of the supply, all in a single solution and immediately usable on the market. Incorrect players could flood the market with newly entered tokens causing bearish pressure on prices.
 
-Now we can ask ourselves a few questions:
-
-* Is the allocation clear and complete?
-
-* Are misleading or unclear terms used?
-
-* Is there an imbalance related to the allocation held by the team? (a healthy allocation is estimated at 15-20%)
-
-* Are there vesting or lockup periods?
-  - If not, why?
-
-* Are there coincidences of breakouts and price dumps? (if yes, check the beneficiary of the release)
-
-
-* Does the team share have vesting periods longer than 2 years? (if yes, indicates a healthy commitment to pursuing long-term goals. (Do not use as an absolute indicator))
-
 Utility
 ^^^^^^
 
@@ -262,8 +245,7 @@ Ethereum being a Smart Contract platform, labeled as "the computer of the world"
  
 Ether is the native asset of the Ethereum platform, and for this reason it plays a crucial role in the vast Ethereum ecosystem. Ether is used by users as a “gas” to power decentralized applications (dApps), this gas is sent to Miner's (soon to validators) as an aid for solving a computational problem.
 
-If user A sends Ether to user B the transaction is relatively simple, requiring a small amount of “gas”. A complex trade on Uniswap can take up to 5 times the price of "gas".
-
+If user A sends Ether to user B the transaction is relatively simple, requiring a small amount of gas. A complex trade on Uniswap can take up to 5 times the amount of gas..
 Example (transactions taken from the same block):
 
 1.  https://etherscan.io/tx/0x6d36c2819e28358bdd8f0c4e3c94bbcbf22b6c95a5ae6401de4e162bb90ada0d[Ether transaction between two addresses^]
@@ -281,6 +263,33 @@ Therefore, when we are faced with a Smart Contract platform whose token is at th
 Ethereum, Solana or Avalanche are some examples of Smart Contract platforms whose purpose of the token is to fuel an economy that, in decades, could be immense.
 
 Therefore, think of it this way: Oil, among many things, is used to move cars, trucks or any other road vehicle. Ether is simply the "oil" that is used to move the "means" of its ecosystem.
+
+Now that we have had an overview of the aspects that make up a Tokenomics, it is good to ask yourself some useful questions to trigger the reasoning:
+
+Now that we have had an overview of the aspects that make up a Tokenomics, it is good to ask yourself some useful questions to trigger the reasoning:
+
+* Is Tokenomics clearly described in every detail?
+
+* Are the indicated APYs extremely high?
+ - If so, do you think they can be sustainable in the long run? (don't excel in superficiality and listen if someone raises the red flag)
+
+* Is the APY of an asset too low compared to the Smart Contract risk? (<1% may not be worth it)
+ - If yes, and you still intend to receive a yield, check that the same asset is on multiple chains in order to diversify the risk.
+
+* Is the allocation clear and complete?
+
+* Are misleading or unclear terms used?
+
+* Is there an imbalance related to the allocation held by the team? (a healthy allocation is https://lstephanian.mirror.xyz/kB9Jz_5joqbY0ePO8rU1NNDKhiqvzU6OWyYsbSA-Kcc[estimated at 15-20%^])
+
+* Are there vesting or lockup periods?
+ - If not, why?
+
+* Are there coincidences of breakouts and price dumps? (if yes, check the beneficiary of the release)
+
+* Does the team share have vesting periods longer than 2 years? (if yes, indicates a healthy commitment to pursuing long-term goals. (Do not use as an absolute indicator))
+
+* Does the token have a realistic utility or is it a stretch that could be replaced by another more used and liquid cryptocurrency?
 
 Roadmap
 ------
