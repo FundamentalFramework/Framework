@@ -266,8 +266,6 @@ Therefore, think of it this way: Oil, among many things, is used to move cars, t
 
 Now that we have had an overview of the aspects that make up a Tokenomics, it is good to ask yourself some useful questions to trigger the reasoning:
 
-Now that we have had an overview of the aspects that make up a Tokenomics, it is good to ask yourself some useful questions to trigger the reasoning:
-
 * Is Tokenomics clearly described in every detail?
 
 * Are the indicated APYs extremely high?
